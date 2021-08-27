@@ -1,0 +1,21 @@
+<resources>
+<string name="app_name">IT VEC</string>
+
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="start">start</string>
+<string name="close">close</string>
+
+<string name="about_Dept">The Department of Information Technology was started in the year 1999 with an intake of 41 students .Our Mission is to provide quality education to the students with practical exposure and impart IT excellence in them. Apart from making them good technocrats, we also provide individual attention to make them good citizens of our nation to serve the industry and society constructively
+To prepare the students for the industry ready and enhance the student\'s knowledge and skills in advanced technological areas, Workshops, Expert Lectures, skill development and personality development programs are being conducted by the Department
+The Department has the state-of-the-art facilities for various labs, well equipped Seminar halls, class rooms to support e-learning and a Department library.</string>
+<string name="about_college">The Velammal Educational Trust is a registered non-minority service organization established in the year 1986 by Thiru. M.V. Muthuramalingam to inculcate among the youth a sense of discipline which is important to mould them into useful and capable citizens. The watch words of the Trust are "Dedication, Determination and Distinction".
+Velammal Engineering College was established in the year 1995-96 to impart quality education. It is a self financing non-minority institution, affiliated to Anna University and approved by All India Council for Technical Education (AICTE) and also an ISO certified institution.</string>
+<string name="vision">"To become an excellence center to offer quality technical education thereby producing graduates who are employable and lifelong contributors in a global society through research and innovation".</string>
+
+<string name="mission">1.To strengthen the core competence in Information Technology through Innovative teaching learning process.
+2.To inculcate qualities of on-going updation, intrapreneur and entrepreneur skills, team work, professionalism and leadership with social responsibilities.
+3.To establish congenial rapport with industries, in terms of Industry-Academia interactions
+4.To encourage faculty and students to carryout research in real time environment using cutting edge technologies.</string>
+
+
+</resources>
